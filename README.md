@@ -1,6 +1,6 @@
 # Relab
 
-## Using handlebars, nodejs, noVNC, websocket to tcp updated, nginx and docker
+## Using nodejs, handlebars, postgresql, noVNC, websocket to tcp updated, nginx and docker
 
 ![relab1](./assets/relab1.jpg)
 ![relab2](./assets/relab2.jpg)
